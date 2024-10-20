@@ -1,4 +1,4 @@
-![exp14a](https://github.com/user-attachments/assets/d984e7dd-e332-498c-8401-57ebc5140d09)# Experiment 14
+# Experiment 14
 
 **Aim:** <br>
 To study and implement inheritance. <br>
